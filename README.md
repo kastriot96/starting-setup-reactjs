@@ -1,6 +1,6 @@
 # Excercises with React.js
 
-![Project Image](project-image-url)
+![App_outlook](React.gif)
 
 > This is a short brief to present my excercises on React .
 
