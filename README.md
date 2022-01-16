@@ -22,5 +22,8 @@ A basic application that have been developed through my excercises ,working with
 
 - Javascript
 - React.js 
+- Chart.js
+- JSX
+- CSS
 
 
